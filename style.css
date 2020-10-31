@@ -221,7 +221,7 @@ hr.socket {
 
 }
 .brightness img:hover {
-    opacity: .8;  
+    opacity: .8;
 }
 
 @media (max-width: 767px) {
